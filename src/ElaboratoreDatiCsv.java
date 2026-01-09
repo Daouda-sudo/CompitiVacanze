@@ -181,7 +181,7 @@ public class ElaboratoreDatiCsv {
                 "geodeticDatum", "verbatimCoordinates", "verbatimCoordinateSystem", "verbatimSRS",
                 "locationID", "locationRemarks", "fieldNotes", "county", "stateProvince",
                 "establishmentMeans", "custom_SensitiveRecord", "informationWithheld",
-                "dataGeneralizations", "footprintWKT"
+                "dataGeneralizations", "footprintWT"
         );
 
         public Record(String[] campi) {
